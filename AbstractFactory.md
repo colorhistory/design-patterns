@@ -16,7 +16,7 @@
 
 #### 结构
 
-![AbstractFactory](/home/xiaohai/ColorHistory/design-patterns/assets/AbstractFactory.png)
+![AbstractFactory](https://github.com/colorhistory/design-patterns/blob/master/assets/AbstractFactory.png)
 
 #### 参与者
 

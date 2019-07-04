@@ -1,0 +1,21 @@
+﻿#include "Builder.hpp"
+
+////////////////////////////////////////////////////////////
+/// \brief DP::Builder::~Builder
+///
+DP::Builder::~Builder() {
+}
+
+////////////////////////////////////////////////////////////
+/// \brief DP::Builder::Builder
+///
+DP::Builder::Builder() {
+}
+
+////////////////////////////////////////////////////////////
+/// \brief DP::Builder::getResult
+/// \return
+///
+DP::DistrWorkPackage *DP::Builder::getResult() {
+    return this->result;
+}

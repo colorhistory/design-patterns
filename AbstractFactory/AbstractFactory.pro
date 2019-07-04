@@ -1,3 +1,6 @@
+TEMPLATE = app
+TARGET = abstractFactory
+
 HEADERS += \
     AbstractFactory.hpp \
     ConcreteFactory1.hpp \
